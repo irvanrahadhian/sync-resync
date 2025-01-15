@@ -27,7 +27,7 @@ To run this project locally:
 If you use this code or derive work from it, please provide appropriate attribution:
 
 1. Link back to this repository
-2. Credit the original creator (your name/username)
+2. Credit the original creator irvanrahadhian
 3. Maintain the same license
 
 Example attribution:
